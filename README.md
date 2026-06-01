@@ -12,4 +12,12 @@ A production-ready password analyzer built with Python and `customtkinter`. This
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/Khaled-Aly-Elnagar/DecodeLabs-Internship.git](https://github.com/Khaled-Aly-Elnagar/DecodeLabs-Internship.git)
+git clone [https://github.com/Khaled-Aly-Elnagar/DecodeLabs-Internship.git](https://github.com/Khaled-Aly-Elnagar/DecodeLabs-Internship-p1.git)
+Install required dependencies:
+
+Bash
+pip install customtkinter requests
+Run the application:
+
+Bash
+python main.py
